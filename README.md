@@ -1,2 +1,6 @@
-# Leetcode-Prep
-random lc's
+# Competitive Programming Repo
+
+Working on: 
+- CSES
+- LeetCode
+- BinarySearch.io
